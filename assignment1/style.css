@@ -1,0 +1,89 @@
+form{
+    position:relative;
+}
+
+#first{
+    
+    width:34%;
+    position:relative;
+    left:15%;
+    height:2em;
+ 
+    margin:0.5em;
+}
+#last{
+    width:34%;
+    position:relative;
+    left:15%;
+    height:2em;
+    margin:0.5em;
+   
+}
+#mobile{
+    margin:0.5em;
+    height:2em;
+    width:70%;
+    left: 15%;
+    position:relative;
+   
+}
+#email{
+    margin:0.5em;
+    height: 2em;
+    width:70%;
+    left: 15%;
+    position:relative;
+}
+#password{
+    margin:0.5em;
+    height:2em;
+    width:34%;
+    left: 15%;
+    position:relative;
+}
+#cp{
+    margin: 0.5em;
+    height:2em;
+    width:34%;
+    left: 15%;
+    position:relative
+}
+#check{
+    position:relative;
+    left:15%;
+}
+#text{
+    position:relative;
+    left:35%;
+    width: 30%;
+    display: inline-block;
+}
+#b1{
+    width:35%;
+    position:relative;
+    left:15%;
+    height:2em;
+    background-color:blue ;
+    margin:0.5em;
+    color:white;
+}
+#b2{
+    width:35%;
+    position:relative;
+    left:15%;
+    height:2em;
+    margin:0.5em;
+   background-color: green;
+   color:white;
+}
+p{
+    font-size: 5em;
+    text-align: center;
+}
+#t1{
+    background-color: blue;
+    color:white;
+}
+#t2{
+  color:blue;
+}
